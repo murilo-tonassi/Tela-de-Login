@@ -1,0 +1,61 @@
+body {
+ 
+    background: linear-gradient(-450deg, #4486a0, #58d0ee, rgba(55, 134, 170, 0.907))
+}
+ 
+button {
+    text-align: center;
+    border: 5;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    color: white;
+    border-radius: 50px;
+    background-color: rgb(55, 0, 255);
+ 
+}
+ 
+ 
+form {
+    background-color: #83ddd1;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 70px;
+    border-radius: 80px;
+    box-shadow: 0 0 30px rgb(54, 57, 212);
+    text-align: center;
+}
+.accessField{
+    text-align: justify;
+}
+ 
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ 
+}
+ 
+p {
+ 
+    text-align: center;
+}
+ 
+a {
+    text-align: center;
+}
+ 
+label {
+ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+ 
+input {
+    border-radius: 20px;
+}
+ 
+nav#menu a:hover{
+  color:aliceblue;
+  transition: all 0.3s ease;
+}
+ 
