@@ -16,8 +16,7 @@
 ## Introdução ✉️
 - A empresa Alpha está expandindo suas operações e busca um(a) programador(a) trainee para integrar sua equipe de TI própria. O desafio consiste em desenvolver uma tela de login funcional que atenda às necessidades da empresa e dos usuários.
  
-<img src= "tela.login.png">
-<img src= "">
+<img src= "imagem.login.png">
  
  
 ## Funcionalidades 🧠
@@ -36,6 +35,6 @@
 - JavaScript.
  
 ## Autores 👥
-- Github: [Nicolas Tonassi](https://github.com/nicolas-tonassi); LinkedIn: [Nicolas Tonassi](https://www.linkedin.com/in/nicolas-tonassi-b70a50261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Github: [Murilo Tonassi](https://github.com/murilo-tonassi); LinkedIn: [Nicolas Tonassi](https://www.linkedin.com/in/nicolas-tonassi-b70a50261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Murilo Tonassi](https://github.com/murilo-tonassi)
 - [Pamela Souza](https://github.com/PamelaSouzaSilva)
